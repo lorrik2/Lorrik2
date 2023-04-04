@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hello, my name is Matthew &#128075;<h1>
-  <h2>I'm from St. Petersburg and student Elbrus cooding bootcamp &#127956;<h2>
+  <h2>I'm from St. Petersburg &#127956;<h2>
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47pdk42shqrpi2t033rj1ms104rw8ekxicftj9cyqx&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <div id="badges" align="center">
