@@ -10,5 +10,5 @@
    width="300">
     <a href="https://www.linkedin.com/in/matvei-korolev/">
     <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png"  alt="linkedin"
-   width="300">
+   height="50">
 
