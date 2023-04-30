@@ -9,6 +9,6 @@
     <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7ec43d986864ef41f40_CW%20Twitter%20Header%20(1).png" alt="codewars"
    width="300">
     <a href="https://www.linkedin.com/in/matvei-korolev/">
-    <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png"  alt="linkedin"
-   height="50">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin"
+  >
 
