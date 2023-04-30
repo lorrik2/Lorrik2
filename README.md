@@ -6,7 +6,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.codewars.com/users/lorrik2">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"
+    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" alt="codewars"
    width="200">
     <a href="https://www.linkedin.com/in/matvei-korolev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" width="200"
