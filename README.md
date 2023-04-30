@@ -17,6 +17,10 @@
   ---
       
  :man_technologist: About Me : I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+ :telescope: I working as a Frontend and Fullstack developer and am involved in the creation of front-end and back-end for creating web applications.
+ :zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles, I like to watch series and ballet.
+
+
 
 
         
