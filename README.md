@@ -11,4 +11,8 @@
     <a href="https://www.linkedin.com/in/matvei-korolev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" width="200"
   >
+      <div>
+       <img src="https://komarev.com/ghpvc/?username=lorrik2&style=flat-square&color=blue" alt=""/>
+      </div>
+        
 
