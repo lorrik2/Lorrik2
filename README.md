@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"
    width="300">
     <a href="https://www.linkedin.com/in/matvei-korolev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin"
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" width="300"
   >
 
