@@ -9,13 +9,15 @@
     <img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" alt="codewars"
    width="200">
     <a href="https://www.linkedin.com/in/matvei-korolev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" width="200"
-  >
-      <div>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" width="200">
+ <div>
        <img src="https://komarev.com/ghpvc/?username=lorrik2&style=flat-square&color=blue" alt="stat" width="170" />
-      </div>
+ </div>
+ 
+  ---
+      
+ :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
         
 
