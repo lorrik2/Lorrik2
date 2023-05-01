@@ -15,15 +15,15 @@
  </div>
  
   ---
-      
- :man_technologist: About Me : I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-      <br>
- :telescope: I working as a Frontend and Fullstack developer and am involved in the creation of front-end and back-end for creating web applications.
-      <br>
- :zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles, I like to watch series and ballet.
-      <br>
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lorrik2-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matvei-korolev/)
+     <ul> 
+ <li>:man_technologist: About Me : I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  
+ <li>:telescope: I working as a Frontend and Fullstack developer and am involved in the creation of front-end and back-end for creating web applications.
 
+ <li>:zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles, I like to watch series and ballet.
+
+ <li>:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lorrik2-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matvei-korolev/)
+      </ul>
 
 
 
