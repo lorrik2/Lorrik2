@@ -45,7 +45,7 @@ const russia = {
 <p align="left">
 <a href="https://linkedin.com/in/matvei-korolev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matvei-korolev" height="30" width="40" /></a>
   <a href="https://t.me/lorrik2" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="tg" height="35" width="40" /></a>
-    <a href="[korolewmatvey1703@gmail.com](https://mail.google.com/mail/u/0/korolewmatvey1703@gmail.com)" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="tg" height="40" width="40" /></a>
+    <a href="https://mail.google.com/mail/u/0/korolewmatvey1703@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="tg" height="40" width="40" /></a>
 </p>
         
 <h3 align="left">Languages and Tools:</h3>
