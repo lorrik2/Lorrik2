@@ -25,7 +25,7 @@
 const russia = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, SCSS],
-  tools: [React, Redux, Redux Toolkit, Node, Express, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Redux Toolkit, Node, Express, Styled-Components, Jest, Docker, GIT, Jiro],
   architecture: ["microservices", "atomic design", "model architecture"],
   exploring: {
                         next.js: "already in the midst of",
